@@ -1,6 +1,7 @@
 // const num1 = 12
 // const num2 = 15
-
+import { greeting } from "./3rdweek"
+greeting()
 // console.log(num1==="12"&&num2=="15") // false
 
 // console.log(num1=="12"&&num2=="15")// true
